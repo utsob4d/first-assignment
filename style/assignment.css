@@ -26,3 +26,13 @@ body {
     flex-shrink: 0;
     margin-left: 500px;
 }
+
+.text2 {
+    background-image: url('../resources/Vectorrr.png');
+    width: 1320px;
+    height: 600px;
+   margin-left: 250px;
+   color: #FFF;
+   text-align: center;
+
+}
