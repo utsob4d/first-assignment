@@ -1,0 +1,28 @@
+body {
+    font-family: 'Merriweather', serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+.banner1 {
+    background-image: url('../resources/Banner\ Image.png');
+    list-style: none;
+    color: #FFF;
+    text-align: center;
+    width: 1320px;
+    height: 600px;
+    margin: 100px auto;
+
+}
+
+.text1 {
+    color: #F00;
+    text-align: center;
+}
+
+.nyi {
+    width: 802.9px;
+    height: 500px;
+    flex-shrink: 0;
+    margin-left: 500px;
+}
